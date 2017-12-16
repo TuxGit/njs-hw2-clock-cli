@@ -1,0 +1,22 @@
+{
+  "name": "clock-cli",
+  "version": "1.0.0",
+  "description": "Консольные часы в реальном времени, которые каждую минуту уведомляют о начале следующей",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuxGit/njs-hw2-clock-cli.git"
+  },
+  "keywords": [
+    "clock",
+    "nodejs"
+  ],
+  "author": "Nikitin",
+  "bugs": {
+    "url": "https://github.com/TuxGit/njs-hw2-clock-cli/issues"
+  },
+  "homepage": "https://github.com/TuxGit/njs-hw2-clock-cli#readme"
+}
